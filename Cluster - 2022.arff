@@ -1,0 +1,108 @@
+@relation 'Forbes-2022 - Copy-weka.filters.unsupervised.attribute.Remove-R1-2,4-5,7_clustered'
+
+@attribute Instance_number numeric
+@attribute Country {'United States',China,'Saudi Arabia',Japan,'South Korea','United Kingdom',Germany,France,'Hong Kong',Switzerland,Canada,Russia,India,Taiwan,Spain,Brazil,Norway,Australia,Netherlands,Belgium}
+@attribute Assets numeric
+@attribute Cluster {cluster0,cluster1}
+
+@data
+0,'United States',0.1632,cluster1
+1,China,1,cluster0
+2,'Saudi Arabia',0.093,cluster1
+3,'United States',0.713,cluster1
+4,China,0.8584,cluster0
+5,'United States',0.0644,cluster1
+6,'United States',0.0572,cluster1
+7,China,0.8243,cluster0
+8,'United States',0.5815,cluster1
+9,Japan,0.0886,cluster1
+10,'United States',0.0532,cluster1
+11,'United States',0.0497,cluster1
+12,China,0.7567,cluster0
+13,'South Korea',0.0531,cluster1
+14,'United States',0.0495,cluster1
+15,'United Kingdom',0.0615,cluster1
+16,China,0.2785,cluster0
+17,'United States',0.3432,cluster1
+18,'United States',0.0545,cluster1
+19,'United States',0.0885,cluster1
+20,China,0.0593,cluster0
+21,'United States',0.0279,cluster1
+22,'United States',0.0322,cluster1
+23,China,0.2536,cluster0
+24,Germany,0.1044,cluster1
+25,'United States',0.0312,cluster1
+26,'United States',0.4266,cluster1
+27,China,0.0337,cluster0
+28,France,0.0411,cluster1
+29,China,0.3497,cluster0
+30,'Hong Kong',0.0393,cluster1
+31,'United States',0.0379,cluster1
+32,China,0.038,cluster0
+33,'United States',0.0177,cluster1
+34,Germany,0.2304,cluster0
+35,'United States',0.2116,cluster1
+36,'United States',0.2789,cluster1
+37,'United Kingdom',0.5301,cluster0
+38,'United States',0.0207,cluster1
+39,France,0.5371,cluster0
+40,Germany,0.0415,cluster1
+41,'United States',0.0314,cluster1
+42,'United States',0.0206,cluster1
+43,Japan,0.0641,cluster1
+44,China,0.0409,cluster0
+45,Switzerland,0.0153,cluster1
+46,Canada,0.2401,cluster0
+47,France,0.1414,cluster1
+48,Russia,0.0534,cluster1
+49,'United Kingdom',0.04,cluster1
+50,'United States',0.0182,cluster1
+51,Japan,0.0248,cluster1
+52,India,0.0226,cluster1
+53,Canada,0.2439,cluster0
+54,China,0.2351,cluster0
+55,Japan,0.0351,cluster1
+56,Taiwan,0.0128,cluster1
+57,Spain,0.3203,cluster0
+58,Japan,0.5702,cluster0
+59,'United States',0.0344,cluster1
+60,France,0.0134,cluster1
+61,China,0.3232,cluster0
+62,'United States',0.0093,cluster1
+63,Germany,0.0381,cluster1
+64,Brazil,0.0193,cluster1
+65,Germany,0.0498,cluster1
+66,'United States',0.0142,cluster1
+67,Switzerland,0.0122,cluster1
+68,'United States',0.0322,cluster1
+69,Norway,0.0143,cluster1
+70,China,0.1285,cluster0
+71,Switzerland,0.0059,cluster1
+72,'Hong Kong',0.0487,cluster1
+73,'United States',0.1267,cluster1
+74,Australia,0.0067,cluster1
+75,'United States',0.0005,cluster1
+76,Germany,0.0174,cluster1
+77,'United States',0.0232,cluster1
+78,Netherlands,0.0231,cluster1
+79,Switzerland,0.0625,cluster1
+80,Russia,0.0275,cluster1
+81,'United Kingdom',0.0061,cluster1
+82,Canada,0.059,cluster1
+83,'United States',0.015,cluster1
+84,'United States',0.1593,cluster1
+85,'United States',0.0042,cluster1
+86,'United States',0.0067,cluster1
+87,'United States',0.0057,cluster1
+88,Canada,0.167,cluster1
+89,'United States',0.083,cluster1
+90,Switzerland,0.0107,cluster1
+91,'United States',0.0046,cluster1
+92,Belgium,0.0275,cluster1
+93,'United States',0.0246,cluster1
+94,Switzerland,0.0206,cluster1
+95,'Hong Kong',0.2388,cluster0
+96,'United Kingdom',0.2076,cluster1
+97,'United States',0.0117,cluster1
+98,France,0.0124,cluster1
+99,'United States',0,cluster1

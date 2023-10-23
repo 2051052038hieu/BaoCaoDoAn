@@ -1,0 +1,108 @@
+@relation 'Billionaires-2022 import-weka.filters.unsupervised.attribute.Remove-R1-3,6-9_clustered'
+
+@attribute Instance_number numeric
+@attribute NetWorth numeric
+@attribute Industry {Automotive,Technology,'Fashion & Retail','Finance & Investments',Diversified,'Media & Entertainment',Telecom,'Food & Beverage',Logistics,'Real Estate','Metals & Mining',Manufacturing,'Gambling & Casinos',Healthcare,Service,Energy}
+@attribute Cluster {cluster0,cluster1,cluster2,cluster3,cluster4,cluster5,cluster6}
+
+@data
+0,1,Automotive,cluster2
+1,0.76,Technology,cluster4
+2,0.7,'Fashion & Retail',cluster0
+3,0.55,Technology,cluster4
+4,0.5,'Finance & Investments',cluster6
+5,0.47,Technology,cluster4
+6,0.45,Technology,cluster4
+7,0.44,Technology,cluster4
+8,0.37,Technology,cluster4
+9,0.37,Diversified,cluster3
+10,0.36,Diversified,cluster3
+11,0.32,'Media & Entertainment',cluster3
+12,0.32,Telecom,cluster3
+13,0.29,'Fashion & Retail',cluster0
+14,0.25,Technology,cluster1
+15,0.24,'Fashion & Retail',cluster0
+16,0.24,'Food & Beverage',cluster5
+17,0.24,'Fashion & Retail',cluster0
+18,0.24,'Fashion & Retail',cluster0
+19,0.24,'Finance & Investments',cluster6
+20,0.21,Diversified,cluster3
+21,0.21,Diversified,cluster3
+22,0.21,'Fashion & Retail',cluster0
+23,0.19,Technology,cluster1
+24,0.16,'Media & Entertainment',cluster0
+25,0.16,'Media & Entertainment',cluster0
+26,0.15,'Fashion & Retail',cluster0
+27,0.15,'Fashion & Retail',cluster0
+28,0.14,Automotive,cluster2
+29,0.13,Technology,cluster1
+30,0.12,Logistics,cluster0
+31,0.12,'Fashion & Retail',cluster0
+32,0.1,Logistics,cluster6
+33,0.1,Technology,cluster1
+34,0.1,'Fashion & Retail',cluster0
+35,0.1,'Food & Beverage',cluster5
+36,0.09,Diversified,cluster3
+37,0.09,'Finance & Investments',cluster6
+38,0.08,'Real Estate',cluster1
+39,0.08,Diversified,cluster3
+40,0.07,'Food & Beverage',cluster5
+41,0.07,'Food & Beverage',cluster5
+42,0.07,'Fashion & Retail',cluster0
+43,0.07,'Fashion & Retail',cluster0
+44,0.07,'Metals & Mining',cluster1
+45,0.07,'Metals & Mining',cluster1
+46,0.06,Technology,cluster1
+47,0.06,'Finance & Investments',cluster6
+48,0.06,Manufacturing,cluster1
+49,0.05,'Gambling & Casinos',cluster5
+50,0.05,'Food & Beverage',cluster5
+51,0.05,'Fashion & Retail',cluster0
+52,0.05,'Finance & Investments',cluster6
+53,0.05,'Fashion & Retail',cluster0
+54,0.04,Technology,cluster1
+55,0.04,Automotive,cluster2
+56,0.04,Healthcare,cluster5
+57,0.04,Service,cluster5
+58,0.04,'Food & Beverage',cluster5
+59,0.04,'Finance & Investments',cluster6
+60,0.03,Manufacturing,cluster5
+61,0.03,Automotive,cluster2
+62,0.03,'Food & Beverage',cluster5
+63,0.03,'Finance & Investments',cluster6
+64,0.03,'Fashion & Retail',cluster0
+65,0.03,'Finance & Investments',cluster6
+66,0.03,'Metals & Mining',cluster5
+67,0.03,Technology,cluster1
+68,0.03,Manufacturing,cluster5
+69,0.03,Technology,cluster1
+70,0.03,'Finance & Investments',cluster6
+71,0.03,'Finance & Investments',cluster6
+72,0.02,Healthcare,cluster5
+73,0.02,Telecom,cluster5
+74,0.02,'Finance & Investments',cluster6
+75,0.02,'Media & Entertainment',cluster5
+76,0.02,Automotive,cluster2
+77,0.02,Technology,cluster1
+78,0.02,Automotive,cluster2
+79,0.02,'Finance & Investments',cluster6
+80,0.02,'Fashion & Retail',cluster0
+81,0.01,'Food & Beverage',cluster5
+82,0.01,Automotive,cluster2
+83,0.01,Manufacturing,cluster5
+84,0.01,'Fashion & Retail',cluster0
+85,0.01,'Real Estate',cluster5
+86,0.01,'Metals & Mining',cluster5
+87,0.01,Energy,cluster5
+88,0,'Metals & Mining',cluster5
+89,0,'Metals & Mining',cluster5
+90,0,Healthcare,cluster5
+91,0,'Metals & Mining',cluster5
+92,0,'Metals & Mining',cluster5
+93,0,Healthcare,cluster5
+94,0,'Fashion & Retail',cluster0
+95,0,'Finance & Investments',cluster6
+96,0,'Metals & Mining',cluster5
+97,0,Energy,cluster5
+98,0,Healthcare,cluster5
+99,0,Manufacturing,cluster5

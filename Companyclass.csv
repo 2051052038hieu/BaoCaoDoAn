@@ -1,0 +1,133 @@
+﻿Name,Sales,Profit,Assets,Market Value,Country,Class
+US Bancorp,23.10,6.10,553.40,86.90,United States,Giảm
+Truist Financial,24.30,4.90,517.50,77.80,United States,Giảm
+UBS,32.20,6.50,1125.80,57.30,Switzerland,Giảm
+Coca-Cola,37.20,10.00,94.00,197.10,United States,Giảm
+Chubb,40.95,8.54,181.75,87.31,Switzerland,Giảm
+Intesa Sanpaolo,45.80,3.70,1226.70,53.30,Italy,Giảm
+Sberbank,47.30,10.40,486.90,85.70,Russia,Giảm
+Charter Communications,48.10,3.20,146.10,124.80,United States,Giảm
+China Minsheng Bank,48.50,7.80,959.20,32.80,China,Giảm
+Commonwealth Bank,49.70,12.70,1505.00,193.30,Australia,Giảm
+Itaú Unibanco Holding,52.00,6.90,408.80,41.00,Brazil,Giảm
+American International Group,52.06,9.39,521.83,48.73,United States,Giảm
+Manulife,57.20,4.40,655.00,41.90,Canada,Giảm
+Unilever,57.80,6.30,82.80,151.10,United Kingdom,Giảm
+Lloyds Banking Group,58.48,7.36,1200.75,41.34,United Kingdom,Giảm
+British American Tobacco,66.10,15.50,375.00,180.40,United States,Giảm
+Prudential Financial,70.93,7.61,937.58,43.60,United States,Giảm
+Raytheon Technologies,77.10,5.50,139.70,56.10,United States,Giảm
+Oracle,79.50,23.60,214.80,394.70,United States,Giảm
+Sanofi,85.73,21.36,276.84,264.26,France,Giảm
+Sumitomo Mitsui Financial,87.00,11.30,4211.60,85.30,Japan,Giảm
+Equinor,88.37,8.57,147.12,117.87,Norway,Giảm
+GlaxoSmithKline,88.40,14.20,214.50,197.30,United Kingdom,Giảm
+Dell Technologies,94.30,3.30,123.40,77.40,United States,Giảm
+Bank of Nova Scotia,95.85,19.46,2763.10,204.58,Canada,Tăng
+United Parcel Service,97.20,12.89,69.41,163.03,United States,Giảm
+AbbVie,102.00,16.06,297.13,464.16,United States,Giảm
+Shanghai Pudong Development,102.30,17.10,2245.00,91.60,China,Giảm
+Anheuser-Busch InBev,106.63,13.76,457.67,208.42,Belgium,Giảm
+Rio Tinto,107.96,30.76,200.30,253.08,Luxembourg,Giảm
+Taiwan Semiconductor,109.57,42.33,237.65,1052.70,Taiwan,Giảm
+China Vanke,116.10,11.70,531.10,79.80,China,Giảm
+LukOil,116.30,9.90,95.70,41.20,Russia,Giảm
+Meta Platforms,117.93,39.37,165.99,499.86,United States,Tăng
+TD Bank Group,122.11,30.18,3859.08,329.39,Canada,Tăng
+AIA Group,128.66,19.83,936.78,385.69,Hong Kong,Giảm
+American Express,131.29,16.46,573.50,330.72,United States,Tăng
+Home Depot,132.10,12.90,70.60,352.80,United States,Giảm
+Ford Motor,136.34,17.94,257.04,60.80,United States,Giảm
+RBC,139.04,31.80,3802.44,370.62,Canada,Tăng
+Merck & Co.,146.07,30.25,281.69,610.13,United States,Giảm
+Walt Disney,147.78,13.48,404.21,410.63,United States,Giảm
+Brookfield Asset Management,147.92,6.77,715.00,132.24,Canada,Giảm
+Novartis,148.83,44.44,391.18,592.33,Switzerland,Tăng
+Cisco Systems,151.15,33.02,280.26,615.96,United States,Giảm
+The Home Depot,151.16,16.43,71.88,310.13,United States,Giảm
+BHP Group,157.45,33.22,311.22,471.27,Australia,Giảm
+Enel,158.00,5.40,392.40,174.80,Italy,Giảm
+BP,158.01,7.55,287.27,98.38,United Kingdom,Giảm
+Facebook,159.40,50.10,297.70,1454.20,United States,Tăng
+Petrobras,162.79,29.97,404.88,127.48,Brazil,Giảm
+CITIC,163.51,15.93,2434.49,62.26,Hong Kong,Giảm
+Mitsubishi UFJ Financial,164.38,21.89,9475.87,197.25,Japan,Tăng
+Industrial Bank,164.53,31.72,3602.52,184.09,China,Tăng
+Santander,167.42,16.90,3523.98,95.31,Spain,Giảm
+Morgan Stanley,169.92,36.28,3277.83,336.95,United States,Tăng
+Daimler,175.90,4.10,349.60,99.20,Germany,Giảm
+Stellantis,176.61,16.78,195.33,44.26,Netherlands,Giảm
+Goldman Sachs Group,178.51,41.24,3981.00,289.22,United States,Giảm
+Mercedes-Benz Group,178.94,27.19,295.48,74.62,Germany,Giảm
+Pfizer,179.79,47.38,503.18,699.83,United States,Tăng
+General Electric,179.80,11.90,517.10,177.10,United States,Giảm
+Hon Hai Precision,182.00,3.50,130.80,60.40,Taiwan,Giảm
+LVMH,186.90,27.63,383.80,921.40,France,Giảm
+HSBC Holdings,187.13,20.38,8859.94,360.90,United Kingdom,Tăng
+China Merchants Bank,189.87,46.38,3824.60,481.02,China,Giảm
+Roche Holding,192.69,44.04,284.52,892.64,Switzerland,Tăng
+Zurich Insurance Group,199.78,13.11,1205.85,178.32,Switzerland,Giảm
+Glencore International,203.41,5.00,127.51,79.90,Switzerland,Giảm
+MetLife,207.88,17.85,2301.11,145.99,United States,Giảm
+Postal Savings Bank Of China (PSBC),209.21,29.63,5233.68,329.93,China,Giảm
+Bank of Communications,210.20,35.28,4888.30,147.82,China,Tăng
+Tencent Holdings,211.46,71.74,593.89,1697.78,China,Tăng
+IBM,217.35,20.12,442.68,355.23,United States,Tăng
+Japan Post Holdings,218.90,8.90,5559.20,67.50,Japan,Giảm
+PepsiCo,218.97,22.32,268.68,620.93,United States,Tăng
+Procter & Gamble,223.92,33.40,358.92,1016.33,United States,Tăng
+Siemens,231.86,17.35,483.82,317.43,Germany,Giảm
+Intel,232.62,63.47,469.21,707.99,United States,Giảm
+Reliance Industries,232.85,19.71,506.09,517.33,India,Giảm
+Gazprom,239.90,48.14,692.17,124.36,Russia,Tăng
+Samsung Group,244.16,34.27,358.88,367.26,South Korea,Giảm
+Sony,249.00,24.09,719.48,324.84,Japan,Giảm
+Softbank,254.56,38.67,1148.24,324.49,Japan,Giảm
+Johnson & Johnson,260.28,51.73,511.92,1299.78,United States,Tăng
+Shell,261.76,20.27,404.38,211.10,United Kingdom,Giảm
+Honda Motor,264.20,8.20,389.80,95.40,Japan,Giảm
+Anthem,266.25,10.84,188.79,213.25,United States,Giảm
+Citigroup,268.74,52.43,6928.21,353.78,United States,Giảm
+Wells Fargo,268.92,42.28,5880.51,477.07,United States,Giảm
+Nestlé,278.25,44.19,425.11,997.31,Switzerland,Tăng
+Alibaba Group,294.16,58.17,715.75,1440.68,China,Giảm
+Chevron,296.39,18.53,476.93,488.03,United States,Giảm
+Bank of America,307.73,73.00,8690.42,848.00,United States,Giảm
+Rosneft,309.10,24.88,635.41,174.59,Russia,Giảm
+Royal Dutch Shell,311.60,9.90,394.00,126.50,Netherlands,Giảm
+Comcast,328.69,36.36,812.20,629.82,United States,Giảm
+Nippon Telegraph & Tel,330.29,26.35,646.66,283.68,Japan,Tăng
+Deutsche Telekom,333.79,13.93,893.06,252.52,Germany,Giảm
+AT&T,342.23,31.73,1097.02,360.39,United States,Tăng
+China Life Insurance,348.00,23.67,1957.98,160.62,China,Giảm
+China Mobile,350.89,49.07,781.47,446.85,Hong Kong,Tăng
+BNP Paribas,358.12,26.15,8470.59,187.06,France,Giảm
+BMW Group,360.88,24.44,830.58,164.68,Germany,Giảm
+Total,361.32,27.44,566.76,220.42,France,Tăng
+General Motors,386.70,23.12,707.92,174.39,United States,Giảm
+Allianz,390.92,24.51,3865.62,281.52,Germany,Giảm
+Verizon Communications,394.05,57.72,977.60,697.02,United States,Giảm
+Samsung Electronics,398.30,40.50,653.10,789.20,South Korea,Giảm
+JPMorgan Chase,403.64,112.52,10783.39,1130.95,United States,Giảm
+China State Construction Engineering,418.30,12.20,615.30,63.70,China,Giảm
+Bank of China,421.83,88.67,11311.24,347.33,China,Tăng
+AXA Group,424.69,15.79,2642.15,175.85,France,Giảm
+Microsoft,476.80,168.79,929.89,5379.97,United States,Tăng
+Agricultural Bank of China,484.02,99.58,12418.45,420.68,China,Giảm
+Cigna,489.37,18.77,459.52,241.70,United States,Giảm
+Ping An Insurance Group,505.47,55.34,4259.51,520.09,China,Giảm
+ExxonMobil,536.51,37.34,701.52,556.33,United States,Tăng
+China Construction Bank,537.67,125.09,12870.65,595.52,China,Giảm
+ICBC,575.83,145.13,14755.71,706.23,China,Giảm
+Alphabet,606.19,150.83,952.27,4039.92,United States,Tăng
+Berkshire Hathaway,776.19,213.70,2650.18,1821.28,United States,Tăng
+UnitedHealth Group,806.75,48.15,615.54,1136.85,United States,Tăng
+Toyota Motor,811.65,65.15,1609.46,630.23,Japan,Tăng
+CVS Health,817.48,21.71,703.30,313.53,United States,Tăng
+Volkswagen Group,825.03,39.04,1823.56,300.00,Germany,Giảm
+Apple,940.40,221.66,1055.69,6178.12,United States,Tăng
+Saudi Arabian Oil Company (Saudi Aramco),959.88,242.86,1484.64,5874.08,Saudi Arabia,Tăng
+PetroChina,1025.11,23.79,1165.40,274.90,China,Tăng
+Sinopec,1025.12,19.14,811.95,240.01,China,Giảm
+Amazon,1152.22,65.26,962.95,4413.60,United States,Tăng
+Walmart,1655.95,42.07,733.86,1172.14,United States,Tăng

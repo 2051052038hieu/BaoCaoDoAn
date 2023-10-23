@@ -1,0 +1,101 @@
+﻿Rank,Name,Country,Sales,Profit,Assets,Market Value,C-P,Class
+1,ICBC,China,177.2,45.3,4322.5,242.3,cluster2,Giảm
+2,China Construction Bank,China,162.1,38.9,3822,203.8,cluster2,Giảm
+3,JPMorgan Chase,United States,142.9,30,3139.4,291.7,cluster0,Giảm
+4,Berkshire Hathaway,United States,254.6,81.4,817.7,455.4,cluster0,Tăng
+5,Agricultural Bank of China,China,148.7,30.9,3697.5,147.2,cluster2,Giảm
+6,Saudi Arabian Oil Company (Saudi Aramco),Saudi Araia,329.8,88.2,398.3,1684.8,cluster2,Tăng
+7,Ping An Insurance Group,China,155,18.8,1218.6,187.2,cluster2,Giảm
+8,Bank of America,United States,112.1,24.1,2620,208.6,cluster0,Giảm
+9,Apple,United States,267.7,57.2,320.4,1285.5,cluster0,Tăng
+10,Bank of China,China,135.4,27.2,3387,112.8,cluster2,Tăng
+11,AT&T,United States,179.2,14.4,545.4,218.6,cluster0,Tăng
+12,Toyota Motor,Japan,280.5,22.7,495.1,173.3,cluster1,Tăng
+13,Alphabet,United States,166.3,34.5,273.4,919.3,cluster0,Tăng
+14,ExxonMobil,United States,256,14.3,362.6,196.6,cluster0,Tăng
+15,Microsoft,United States,138.6,46.3,285.4,1359,cluster0,Tăng
+16,Samsung Electronics,South Korea,197.6,18.4,304.9,278.7,cluster2,Giảm
+17,Wells Fargo,United States,98.9,14.3,1981.3,118.8,cluster0,Giảm
+18,Citigroup,United States,104.4,17.1,2219.8,101.1,cluster0,Giảm
+19,Walmart,United States,524,14.9,236.5,344.4,cluster0,Tăng
+20,Verizon Communications,United States,131.4,18.4,294.5,237.7,cluster0,Giảm
+21,Royal Dutch Shell,Netherlands,311.6,9.9,394,126.5,cluster1,Giảm
+22,Amazon,United States,296.3,10.6,221.2,1233.4,cluster0,Tăng
+23,Volkswagen Group,Germany,275.2,12,538.9,70.4,cluster0,Giảm
+24,UnitedHealth Group,United States,246.3,13.8,189.1,277.1,cluster0,Tăng
+25,Allianz,Germany,122.4,8.9,1183.5,77.1,cluster1,Giảm
+26,China Merchants Bank,China,58.4,13.7,1094.9,120.9,cluster2,Giảm
+27,Comcast,United States,108.7,11.7,262.4,171.7,cluster0,Giảm
+28,China Mobile,Hong Kong,108.1,15.5,233.9,164.9,cluster0,Tăng
+29,Total,France,176.2,11.3,273.3,93.1,cluster1,Tăng
+30,Postal Savings Bank Of China (PSBC),China,64.4,9,1522.4,92,cluster2,Giảm
+31,Alibaba Group,China,70.6,24.7,189.4,545.4,cluster2,Giảm
+32,Gazprom,Russia,122.6,22.7,331.7,60.8,cluster2,Tăng
+33,PetroChina,China,364.1,6.6,392.3,65.9,cluster2,Tăng
+34,Johnson & Johnson,United States,82.8,17.2,155,395.3,cluster0,Tăng
+35,RBC,Canada,50.9,10,1116.3,87.7,cluster1,Tăng
+36,Walt Disney,United States,74.8,10.4,200.9,195.3,cluster0,Giảm
+37,China Life Insurance,China,103.7,8.5,536.2,60.3,cluster2,Giảm
+38,Intel,United States,75.7,22.7,147.7,254,cluster0,Giảm
+39,Facebook,United States,73.4,21,138.4,583.7,cluster0,Tăng
+40,CVS Health,United States,256.8,6.6,224.3,80.4,cluster0,Tăng
+41,Nestlé,Switzerland,93.1,12.7,132.1,304.1,cluster0,Tăng
+42,BNP Paribas,France,128,8.7,2429.9,39.2,cluster1,Giảm
+43,Nippon Telegraph & Tel,Japan,109.6,7.9,211.1,83,cluster1,Tăng
+44,HSBC Holdings,United Kingdom,67.2,3.8,2917.8,105.3,cluster1,Tăng
+45,Bank of Communications,China,66.6,11.2,1422.1,47.1,cluster2,Tăng
+46,TD Bank Group,Canada,44.8,9.3,1102,75.8,cluster1,Tăng
+47,Goldman Sachs Group,United States,53.9,7.4,1090,63.4,cluster0,Giảm
+48,Morgan Stanley,United States,53,8.3,896.8,62.1,cluster0,Tăng
+49,Pfizer,United States,50.7,15.8,167.5,212.8,cluster0,Tăng
+50,Tencent Holdings,China,54.6,13.5,137,509.7,cluster2,Tăng
+51,IBM,United States,76.5,9,153.4,111.5,cluster0,Tăng
+52,Mitsubishi UFJ Financial,Japan,60.1,5.4,2893,51.8,cluster1,Tăng
+53,General Electric,United States,99.9,6.3,262,59.5,cluster0,Giảm
+54,Rosneft,Russia,126.9,10.9,208.5,48.1,cluster1,Giảm
+55,Santander,Spain,89.2,7.3,1709.2,37.1,cluster1,Giảm
+56,Anheuser-Busch InBev,Belgium,52.3,9.1,238.3,89.9,cluster1,Giảm
+57,Industrial Bank,China,50.2,9.2,1045,49,cluster2,Tăng
+58,Reliance Industries,India,84.8,6.2,147.2,123.8,cluster1,Giảm
+59,Sony,Japan,79.2,6,208.3,78.7,cluster1,Giảm
+60,Sinopec,China,369.2,3.3,254.8,76.6,cluster2,Giảm
+61,Chevron,United States,140.1,2.9,237.4,171.8,cluster0,Giảm
+62,Siemens,Germany,97.4,5.9,171,75.4,cluster1,Giảm
+63,Cigna,United States,154.5,4.9,157,72.8,cluster0,Giảm
+64,AXA Group,France,150,4,850.8,42.3,cluster1,Giảm
+65,Shanghai Pudong Development,China,50,8.6,1029.3,44.2,cluster2,Giảm
+66,AIA Group,Hong Kong,40.9,6.6,280.3,111.8,cluster1,Giảm
+67,Softbank,Japan,87.4,2.9,362.6,89.7,cluster1,Giảm
+68,Novartis,Switzerland,48.6,12.2,123.1,193,cluster0,Tăng
+69,Deutsche Telekom,Germany,90.1,4.3,207.1,69.2,cluster1,Giảm
+70,Petrobras,Brazil,78.9,10.2,230.2,43.5,cluster1,Giảm
+71,Procter & Gamble,United States,70.3,5,118.6,291.8,cluster0,Tăng
+72,Japan Post Holdings,Japan,112.3,4.7,2680.2,32.7,cluster1,Giảm
+73,LVMH,France,60.1,8,108.3,194.3,cluster1,Giảm
+74,Roche Holding,Switzerland,61.9,13.6,85.8,297.4,cluster0,Tăng
+75,BMW Group,Germany,116.6,5.5,271.3,38.9,cluster1,Giảm
+76,Zurich Insurance Group,Switzerland,71.8,4.1,381.9,47.4,cluster1,Giảm
+77,CITIC,Hong Kong,72.3,6.9,1063.9,30.3,cluster1,Giảm
+78,Itaú Unibanco Holding,Brazil,52,6.9,408.8,41,cluster1,Giảm
+79,China State Construction Engineering,China,203,6.1,292.3,30.7,cluster2,Giảm
+80,MetLife,United States,69,5.9,746.3,32.8,cluster0,Giảm
+81,Sumitomo Mitsui Financial,Japan,48.4,6.4,1954.8,36.4,cluster1,Giảm
+82,Cisco Systems,United States,51.6,11.1,90.4,179.7,cluster0,Giảm
+83,Honda Motor,Japan,142.4,4.3,188.5,42.6,cluster1,Giảm
+84,Commonwealth Bank,Australia,27.3,7,688.8,72.6,cluster1,Giảm
+85,Bank of Nova Scotia,Canada,34.8,6.4,872.6,48.7,cluster1,Tăng
+86,Raytheon Technologies,United States,77.1,5.5,139.7,56.1,cluster0,Giảm
+87,PepsiCo,United States,68.2,7.2,85.1,183.6,cluster0,Tăng
+88,American Express,United States,46.8,5.5,186.1,73.5,cluster0,Tăng
+89,General Motors,United States,137.2,6.7,228,31.9,cluster0,Giảm
+90,China Minsheng Bank,China,48.5,7.8,959.2,32.8,cluster2,Giảm
+91,British American Tobacco,United Kingdom,33,7.3,186.8,88.8,cluster1,Giảm
+92,Merck & Co.,United States,47.9,10.1,84.4,200.3,cluster0,Giảm
+93,BHP Group,Australia,45.8,9.4,102.3,107.1,cluster1,Giảm
+94,Oracle,United States,39.8,10.8,96.7,167,cluster0,Giảm
+95,Brookfield Asset Management,Canada,69.1,2.8,324,51.3,cluster1,Giảm
+96,Coca-Cola,United States,37.2,10,94,197.1,cluster0,Giảm
+97,Enel,Italy,86.6,2.4,192.4,69.4,cluster1,Giảm
+98,GlaxoSmithKline,United Kingdom,44.7,6.8,104.6,104.4,cluster1,Giảm
+99,LukOil,Russia,116.3,9.9,95.7,41.2,cluster1,Giảm
+100,China Vanke,China,53.5,5.6,245.3,37.6,cluster2,Giảm

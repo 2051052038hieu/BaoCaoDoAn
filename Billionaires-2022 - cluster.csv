@@ -1,0 +1,101 @@
+C-7,Rank,Name,Age,NetWorth,Industry,Source,Country,SelfMade,Gender
+cluster2,1,Elon Musk,50,219,Automotive,Tesla Spacex,United States,TRUE,M
+cluster4,2,Jeff Bezos,58,171,Technology,Amazon,United States,TRUE,M
+cluster0,3,Bernard Arnault & family,73,158,Fashion & Retail,Lvmh,France,FALSE,M
+cluster4,4,Bill Gates,66,129,Technology,Microsoft,United States,TRUE,M
+cluster6,5,Warren Buffett,91,118,Finance & Investments,Berkshire Hathaway,United States,TRUE,M
+cluster4,6,Larry Page,49,111,Technology,Google,United States,TRUE,M
+cluster4,7,Sergey Brin,48,107,Technology,Google,United States,TRUE,M
+cluster4,8,Larry Ellison,77,106,Technology,Software,United States,TRUE,M
+cluster4,9,Steve Ballmer,66,91.4,Technology,Microsoft,United States,TRUE,M
+cluster3,10,Mukesh Ambani,64,90.7,Diversified,Diversified,India,FALSE,M
+cluster3,11,Gautam Adani & family,59,90,Diversified,Infrastructure Commodities,India,TRUE,M
+cluster3,12,Michael Bloomberg,80,82,Media & Entertainment,Bloomberg Lp,United States,TRUE,M
+cluster3,13,Carlos Slim Helu & family,82,81.2,Telecom,Telecom,Mexico,TRUE,M
+cluster0,14,Francoise Bettencourt Meyers & family,68,74.8,Fashion & Retail,LOréal,France,FALSE,F
+cluster1,15,Mark Zuckerberg,37,67.3,Technology,Facebook,United States,TRUE,M
+cluster0,16,Jim Walton,73,66.2,Fashion & Retail,Walmart,United States,FALSE,M
+cluster5,17,Zhong Shanshan,67,65.7,Food & Beverage,Beverages Pharmaceuticals,China,TRUE,M
+cluster0,18,Alice Walton,72,65.3,Fashion & Retail,Walmart,United States,FALSE,F
+cluster0,19,Rob Walton,77,65,Fashion & Retail,Walmart,United States,FALSE,M
+cluster6,20,Changpeng Zhao,44,65,Finance & Investments,Cryptocurrency Exchange,Singapore,TRUE,M
+cluster3,21,Charles Koch,86,60,Diversified,Koch Industries,United States,FALSE,M
+cluster3,22,Julia Koch & family,59,60,Diversified,Koch Industries,United States,FALSE,F
+cluster0,23,Amancio Ortega,86,59.6,Fashion & Retail,Zara,Spain,TRUE,M
+cluster1,24,Michael Dell,57,55.1,Technology,Dell Computers,United States,TRUE,M
+cluster0,25,Zhang Yiming,38,50,Media & Entertainment,Tiktok,China,TRUE,M
+cluster0,26,David Thomson & family,64,49.2,Media & Entertainment,Media,Canada,FALSE,M
+cluster0,27,Phil Knight & family,84,47.3,Fashion & Retail,Nike,United States,TRUE,M
+cluster0,28,Dieter Schwarz,82,47.1,Fashion & Retail,Retail,Germany,FALSE,M
+cluster2,29,Robin Zeng,53,44.8,Automotive,Batteries,China,TRUE,M
+cluster1,30,Mackenzie Scott,51,43.6,Technology,Amazon,United States,FALSE,F
+cluster0,31,Rodolphe Saade,52,41.4,Logistics,Shipping,France,FALSE,M
+cluster0,32,Francois Pinault & family,85,40.4,Fashion & Retail,Luxury Goods,France,TRUE,M
+cluster6,33,Klaus-Michael Kuehne,84,37.3,Logistics,Shipping,Switzerland,FALSE,M
+cluster1,34,Ma Huateng,50,37.2,Technology,Internet Media,China,TRUE,M
+cluster0,35,Karl Albrecht Jr. & family,67,36.8,Fashion & Retail,Supermarkets,Germany,FALSE,M
+cluster5,36,Giovanni Ferrero,57,36.2,Food & Beverage,Nutella Chocolates,Belgium,FALSE,M
+cluster3,37,Li Ka-Shing,93,34.8,Diversified,Diversified,Hong Kong,TRUE,M
+cluster6,38,Stephen Schwarzman,75,34.8,Finance & Investments,Investments,United States,TRUE,M
+cluster1,39,Lee Shau Kee,94,32.6,Real Estate,Real Estate,Hong Kong,TRUE,M
+cluster3,40,Len Blavatnik,64,32.5,Diversified,Music Chemicals,United Kingdom,TRUE,M
+cluster5,41,John Mars,86,31.7,Food & Beverage,Candy Pet Food,United States,FALSE,M
+cluster5,42,Jacqueline Mars,82,31.7,Food & Beverage,Candy Pet Food,United States,FALSE,F
+cluster0,43,Gerard Wertheimer,71,31.2,Fashion & Retail,Chanel,United States,FALSE,M
+cluster0,44,Alain Wertheimer,73,31.2,Fashion & Retail,Chanel,United States,FALSE,M
+cluster1,45,German Larrea Mota Velasco & family,68,30.8,Metals & Mining,Mining,Mexico,FALSE,M
+cluster1,46,Gina Rinehart,68,30.2,Metals & Mining,Mining,Australia,FALSE,F
+cluster1,47,Shiv Nadar,76,28.7,Technology,Software Services,India,TRUE,M
+cluster6,48,Jim Simons,83,28.6,Finance & Investments,Hedge Funds,United States,TRUE,M
+cluster1,49,He Xiangjian,79,28.3,Manufacturing,Home Appliances,China,TRUE,M
+cluster5,50,Miriam Adelson,76,27.5,Gambling & Casinos,Casinos,United States,FALSE,F
+cluster5,51,Dietrich Mateschitz,77,27.4,Food & Beverage,Red Bull,Australia,TRUE,M
+cluster0,52,Leonardo Del Vecchio & family,86,27.3,Fashion & Retail,Eyeglasses,Italy,TRUE,M
+cluster6,53,Ken Griffin,53,27.2,Finance & Investments,Hedge Funds,United States,TRUE,M
+cluster0,54,Tadashi Yanai & family,73,26.1,Fashion & Retail,Fashion Retail,Japan,TRUE,M
+cluster1,55,William Lei Ding,50,25.2,Technology,Online Games,China,TRUE,M
+cluster2,56,Wang Wei,51,24.3,Service,Package Delivery,China,TRUE,M
+cluster5,57,Susanne Klatten,59,24.3,Automotive,Bmw Pharmaceuticals,Germany,FALSE,F
+cluster5,58,Cyrus Poonawalla,80,24.3,Healthcare,Vaccines,India,FALSE,M
+cluster5,59,Qin Yinglin,56,24.1,Food & Beverage,Pig Breeding,China,TRUE,M
+cluster6,60,Sam Bankman-Fried,30,24,Finance & Investments,Cryptocurrency Exchange,Bahamas,TRUE,M
+cluster5,61,Takemitsu Takizaki,76,23.9,Manufacturing,Sensors,Japan,TRUE,M
+cluster2,62,Li Shufu,58,23.7,Automotive,Automobiles,China,TRUE,M
+cluster5,63,Emmanuel Besnier,51,23.5,Food & Beverage,Cheese,France,FALSE,M
+cluster6,64,R. Budi Hartono,81,23.2,Finance & Investments,Banking Tobacco,Indonesia,FALSE,M
+cluster0,65,Leonard Lauder,89,23.1,Fashion & Retail,Estee Lauder,United States,FALSE,M
+cluster6,66,Guillaume Pousaz,40,23,Finance & Investments,Fintech,Switzerland,TRUE,M
+cluster1,67,Jack Ma,57,22.8,Technology,E-Commerce,China,TRUE,M
+cluster5,68,Iris Fontbona & family,79,22.8,Metals & Mining,Mining,Chile,FALSE,F
+cluster5,69,Michael Hartono,82,22.3,Manufacturing,Banking Tobacco,Indonesia,FALSE,M
+cluster1,70,Eric Schmidt,66,22.1,Technology,Google,United States,TRUE,M
+cluster6,71,Daniel Gilbert,60,22,Finance & Investments,Quicken Loans,United States,TRUE,M
+cluster6,72,Ray Dalio,72,22,Finance & Investments,Hedge Funds,United States,TRUE,M
+cluster5,73,Thomas Frist Jr. & family,83,21.8,Healthcare,Hospitals,United States,TRUE,M
+cluster5,74,Masayoshi Son,64,21.3,Telecom,Internet Telecom,Japan,TRUE,M
+cluster6,75,Abigail Johnson,60,21.2,Finance & Investments,Money Management,United States,FALSE,F
+cluster5,76,Rupert Murdoch & family,91,20.8,Media & Entertainment,Newspapers Tv Network,United States,FALSE,M
+cluster2,77,Stefan Quandt,55,20.7,Automotive,Bmw,Germany,FALSE,M
+cluster1,78,Jensen Huang,59,20.6,Technology,Semiconductors,United States,TRUE,M
+cluster2,79,Huang Shilin,55,20.3,Automotive,Batteries,China,TRUE,M
+cluster6,80,Thomas Peterffy,77,20.1,Finance & Investments,Discount Brokerage,United States,TRUE,M
+cluster0,81,Radhakishan Damani,67,20,Fashion & Retail,Retail Investments,India,TRUE,M
+cluster5,82,Pang Kang,66,19.6,Food & Beverage,Soy Sauce,China,TRUE,M
+cluster2,83,Wang Chuanfu,56,19.5,Automotive,Batteries Automobiles,China,TRUE,M
+cluster5,84,Reinhold Wuerth & family,86,19,Manufacturing,Fasteners,Germany,TRUE,M
+cluster0,85,Theo Albrecht Jr. & family,71,18.7,Fashion & Retail,Aldi Trader JoeS,Germany,FALSE,M
+cluster5,86,Yang Huiyan & family,40,18.7,Real Estate,Real Estate,China,FALSE,F
+cluster5,87,Vladimir Lisin,65,18.4,Metals & Mining,Steel Transport,Russia,TRUE,M
+cluster5,88,Fan Hongwei & family,55,18.2,Energy,Petrochemicals,China,TRUE,F
+cluster5,89,Lakshmi Mittal,71,17.9,Metals & Mining,Steel,United Kingdom,FALSE,M
+cluster5,90,Andrew Forrest,60,17.8,Metals & Mining,Mining,Australia,TRUE,M
+cluster5,91,Jiang Rensheng & family,68,17.7,Healthcare,Vaccines,China,TRUE,M
+cluster5,92,Wang Wenyin,54,17.7,Metals & Mining,Mining Copper Products,China,TRUE,M
+cluster5,93,Savitri Jindal & family,72,17.7,Metals & Mining,Steel,India,FALSE,F
+cluster0,94,Li Xiting,71,17.6,Healthcare,Medical Devices,China,TRUE,M
+cluster5,95,Stefan Persson,74,17.6,Fashion & Retail,H&M,Sweden,FALSE,M
+cluster6,96,Steve Cohen,65,17.4,Finance & Investments,Hedge Funds,United States,TRUE,M
+cluster5,97,Vladimir Potanin,61,17.3,Metals & Mining,Metals,Russia,TRUE,M
+cluster5,98,Harold Hamm & family,76,17.2,Energy,Oil & Gas,United States,TRUE,M
+cluster5,99,Sun Piaoyang,63,17.1,Healthcare,Pharmaceuticals,China,TRUE,M
+cluster5,100,Luo Liguo & family,66,17,Manufacturing,Chemicals,China,TRUE,M

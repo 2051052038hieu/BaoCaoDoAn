@@ -1,0 +1,101 @@
+Rank,Name,Country,Sales,Profit,Assets,Market Value
+1,Berkshire Hathaway,United States,0.4531,0.8479,0.1632,0.272
+2,ICBC,China,0.3278,0.4981,1,0.07
+3,Saudi Arabian Oil Company (Saudi Aramco),Saudi Arabia,0.6822,1,0.093,0.8665
+4,JPMorgan Chase,United States,0.1737,0.3817,0.713,0.1313
+5,China Construction Bank,China,0.3166,0.4283,0.8584,0.0573
+6,Amazon,United States,0.8102,0.2961,0.0644,0.5507
+7,Apple,United States,0.6422,0.9531,0.0572,1
+8,Agricultural Bank of China,China,0.2785,0.3354,0.8243,0.0389
+9,Bank of America,United States,0.1226,0.273,0.5815,0.104
+10,Toyota Motor,Japan,0.4635,0.2451,0.0886,0.0789
+11,Alphabet,United States,0.4188,0.7132,0.0532,0.5942
+12,Microsoft,United States,0.2849,0.6659,0.0497,0.7754
+13,Bank of China,China,0.2251,0.2981,0.7567,0.0329
+14,Samsung Group,South Korea,0.3942,0.3049,0.0531,0.1285
+15,ExxonMobil,United States,0.4612,0.1952,0.0495,0.1257
+16,Shell,United Kingdom,0.4266,0.1681,0.0615,0.0687
+17,Ping An Insurance Group,China,0.2784,0.1238,0.2785,0.0344
+18,Wells Fargo,United States,0.0991,0.1711,0.3432,0.0555
+19,Verizon Communications,United States,0.1917,0.1803,0.0545,0.0713
+20,AT&T,United States,0.2446,0.1393,0.0885,0.0421
+21,UnitedHealth Group,United States,0.4926,0.1405,0.0279,0.1757
+21,PetroChina,China,0.6452,0.1096,0.0593,0.0423
+23,Walmart,United States,1,0.1035,0.0322,0.1532
+24,China Merchants Bank,China,0.0751,0.1515,0.2536,0.0519
+25,Volkswagen Group,Germany,0.4893,0.1414,0.1044,0.0193
+26,Chevron,United States,0.2322,0.1227,0.0312,0.109
+27,Citigroup,United States,0.0914,0.1481,0.4266,0.0267
+28,Tencent Holdings,China,0.1042,0.3115,0.0337,0.1466
+29,Total,France,0.2853,0.1277,0.0411,0.0366
+30,Postal Savings Bank Of China (PSBC),China,0.0871,0.0807,0.3497,0.0359
+31,China Mobile,Hong Kong,0.1865,0.1456,0.0393,0.0441
+32,Comcast,United States,0.1586,0.1083,0.0379,0.0666
+33,Alibaba Group,China,0.1833,0.0693,0.038,0.0789
+34,Meta Platforms,United States,0.1615,0.3548,0.0177,0.1794
+35,Allianz,Germany,0.1996,0.0462,0.2304,0.0247
+36,Morgan Stanley,United States,0.0551,0.1124,0.2116,0.0456
+37,Goldman Sachs Group,United States,0.0598,0.1531,0.2789,0.0297
+38,HSBC Holdings,United Kingdom,0.0534,0.0929,0.5301,0.0396
+39,Johnson & Johnson,United States,0.119,0.1638,0.0207,0.1708
+40,BNP Paribas,France,0.179,0.0662,0.5371,0.0141
+41,Mercedes-Benz Group,Germany,0.2739,0.2357,0.0415,0.0164
+42,CVS Health,United States,0.4824,0.0472,0.0314,0.0389
+43,Pfizer,United States,0.0943,0.1848,0.0206,0.092
+44,Softbank,Japan,0.1226,0.1739,0.0641,0.0152
+45,Sinopec,China,0.6535,0.0778,0.0409,0.0187
+46,Nestlé,Switzerland,0.1197,0.1507,0.0153,0.1258
+47,RBC,Canada,0.0275,0.097,0.2401,0.0445
+48,AXA Group,France,0.2117,0.0519,0.1414,0.013
+49,Gazprom,Russia,0.1603,0.2186,0.0534,0.0121
+50,BP,United Kingdom,0.2354,0.0437,0.04,0.0255
+51,Intel,United States,0.0897,0.1642,0.0182,0.0607
+52,Nippon Telegraph & Tel,Japan,0.1476,0.0691,0.0248,0.0276
+53,Reliance Industries,India,0.1042,0.0462,0.0226,0.0754
+53,TD Bank Group,Canada,0.015,0.0851,0.2439,0.0387
+55,Industrial Bank,China,0.0556,0.0952,0.2351,0.014
+56,Sony,Japan,0.1098,0.048,0.0351,0.0295
+57,Taiwan Semiconductor,Taiwan,0.0574,0.2009,0.0128,0.1774
+58,Santander,Spain,0.0883,0.0637,0.3203,0.0101
+59,Ford Motor,United States,0.1954,0.1453,0.0344,0.0111
+59,LVMH,France,0.084,0.109,0.0134,0.1207
+59,Mitsubishi UFJ Financial,Japan,0.0331,0.0803,0.5702,0.0168
+62,Bank of Communications,China,0.0842,0.0968,0.3232,0.008
+63,Procter & Gamble,United States,0.0908,0.1126,0.0093,0.1359
+64,BMW Group,Germany,0.1864,0.113,0.0381,0.0092
+65,Petrobras,Brazil,0.0987,0.1632,0.0193,0.0199
+66,Deutsche Telekom,Germany,0.1811,0.0181,0.0498,0.0229
+67,AbbVie,United States,0.0477,0.0819,0.0142,0.0927
+68,Novartis,Switzerland,0.0392,0.2059,0.0122,0.0647
+69,General Motors,United States,0.1782,0.0679,0.0322,0.0099
+70,Equinor,Norway,0.107,0.0537,0.0143,0.0329
+71,China Life Insurance,China,0.1846,0.0468,0.1285,0.0042
+72,Roche Holding,Switzerland,0.0707,0.1189,0.0059,0.1059
+73,AIA Group,Hong Kong,0.0273,0.0425,0.0487,0.0338
+74,MetLife,United States,0.0751,0.0339,0.1267,0.0097
+75,BHP Group,Australia,0.0649,0.1353,0.0067,0.056
+76,The Home Depot,United States,0.2227,0.1305,0.0005,0.1066
+77,Siemens,Germany,0.085,0.0339,0.0174,0.0269
+77,American Express,United States,0.0294,0.0467,0.0232,0.0402
+79,Stellantis,Netherlands,0.2697,0.1339,0.0231,0.0047
+80,Zurich Insurance Group,Switzerland,0.0723,0.0208,0.0625,0.0143
+81,Rosneft,Russia,0.1494,0.087,0.0275,0.0065
+82,Rio Tinto,United Kingdom,0.061,0.1758,0.0061,0.0329
+83,Brookfield Asset Management,Canada,0.0894,0.0087,0.059,0.0188
+84,Cigna,United States,0.2653,0.0224,0.015,0.0189
+85,Prudential Financial,United States,0.0748,0.0443,0.1593,0.0045
+86,PepsiCo,United States,0.0906,0.0444,0.0042,0.079
+87,Merck & Co.,United States,0.0369,0.0975,0.0067,0.0697
+88,Anthem,United States,0.2102,0.0309,0.0057,0.0342
+89,Bank of Nova Scotia,Canada,0,0.0477,0.167,0.0186
+90,American International Group,United States,0.04,0.0617,0.083,0.0064
+91,Glencore International,Switzerland,0.3191,0.0188,0.0107,0.0184
+92,Cisco Systems,United States,0.0391,0.0855,0.0046,0.0695
+93,Anheuser-Busch InBev,Belgium,0.0442,0.0154,0.0275,0.0332
+94,Walt Disney,United States,0.0786,0,0.0246,0.0703
+95,Chubb,Switzerland,0.0195,0.0534,0.0206,0.0212
+96,CITIC,Hong Kong,0.1122,0.0582,0.2388,0
+96,Lloyds Banking Group,United Kingdom,0.0519,0.0418,0.2076,0.0036
+98,IBM,United States,0.068,0.0239,0.0117,0.0354
+99,Sanofi,France,0.0263,0.0418,0.0124,0.0402
+100,United Parcel Service,United States,0.1232,0.0959,0,0.0502

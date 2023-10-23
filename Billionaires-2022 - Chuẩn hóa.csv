@@ -1,0 +1,101 @@
+﻿Rank,Name,Age,NetWorth,Industry,Source,Country,SelfMade,Gender
+1,Elon Musk,0.31,1.00,Automotive,Tesla Spacex,United States,1,1
+2,Jeff Bezos,0.44,0.76,Technology,Amazon,United States,1,1
+3,Bernard Arnault & family,0.67,0.70,Fashion & Retail,Lvmh,France,0,1
+4,Bill Gates,0.56,0.55,Technology,Microsoft,United States,1,1
+5,Warren Buffett,0.95,0.50,Finance & Investments,Berkshire Hathaway,United States,1,1
+6,Larry Page,0.30,0.47,Technology,Google,United States,1,1
+7,Sergey Brin,0.28,0.45,Technology,Google,United States,1,1
+8,Larry Ellison,0.73,0.44,Technology,Software,United States,1,1
+9,Steve Ballmer,0.56,0.37,Technology,Microsoft,United States,1,1
+10,Mukesh Ambani,0.53,0.37,Diversified,Diversified,India,0,1
+11,Gautam Adani & family,0.45,0.36,Diversified,Infrastructure Commodities,India,1,1
+12,Michael Bloomberg,0.78,0.32,Media & Entertainment,Bloomberg Lp,United States,1,1
+13,Carlos Slim Helu & family,0.81,0.32,Telecom,Telecom,Mexico,1,1
+14,Francoise Bettencourt Meyers & family,0.59,0.29,Fashion & Retail,LOréal,France,0,0
+15,Mark Zuckerberg,0.11,0.25,Technology,Facebook,United States,1,1
+16,Jim Walton,0.67,0.24,Fashion & Retail,Walmart,United States,0,1
+17,Zhong Shanshan,0.58,0.24,Food & Beverage,Beverages Pharmaceuticals,China,1,1
+18,Alice Walton,0.66,0.24,Fashion & Retail,Walmart,United States,0,0
+19,Rob Walton,0.73,0.24,Fashion & Retail,Walmart,United States,0,1
+19,Changpeng Zhao,0.22,0.24,Finance & Investments,Cryptocurrency Exchange,Singapore,1,1
+21,Charles Koch,0.88,0.21,Diversified,Koch Industries,United States,0,1
+21,Julia Koch & family,0.45,0.21,Diversified,Koch Industries,United States,0,0
+23,Amancio Ortega,0.88,0.21,Fashion & Retail,Zara,Spain,1,1
+24,Michael Dell,0.42,0.19,Technology,Dell Computers,United States,1,1
+25,Zhang Yiming,0.13,0.16,Media & Entertainment,Tiktok,China,1,1
+26,David Thomson & family,0.53,0.16,Media & Entertainment,Media,Canada,0,1
+27,Phil Knight & family,0.84,0.15,Fashion & Retail,Nike,United States,1,1
+28,Dieter Schwarz,0.81,0.15,Fashion & Retail,Retail,Germany,0,1
+29,Robin Zeng,0.36,0.14,Automotive,Batteries,China,1,1
+30,Mackenzie Scott,0.33,0.13,Technology,Amazon,United States,0,0
+31,Rodolphe Saade,0.34,0.12,Logistics,Shipping,France,0,1
+32,Francois Pinault & family,0.86,0.12,Fashion & Retail,Luxury Goods,France,1,1
+33,Klaus-Michael Kuehne,0.84,0.10,Logistics,Shipping,Switzerland,0,1
+34,Ma Huateng,0.31,0.10,Technology,Internet Media,China,1,1
+35,Karl Albrecht Jr. & family,0.58,0.10,Fashion & Retail,Supermarkets,Germany,0,
+36,Giovanni Ferrero,0.42,0.10,Food & Beverage,Nutella Chocolates,Belgium,0,1
+37,Li Ka-Shing,0.98,0.09,Diversified,Diversified,Hong Kong,1,1
+37,Stephen Schwarzman,0.70,0.09,Finance & Investments,Investments,United States,1,1
+39,Lee Shau Kee,1.00,0.08,Real Estate,Real Estate,Hong Kong,1,1
+40,Len Blavatnik,0.53,0.08,Diversified,Music Chemicals,United Kingdom,1,1
+41,Jacqueline Mars,0.81,0.07,Food & Beverage,Candy Pet Food,United States,0,0
+41,John Mars,0.88,0.07,Food & Beverage,Candy Pet Food,United States,0,1
+43,Alain Wertheimer,0.67,0.07,Fashion & Retail,Chanel,United States,0,1
+43,Gerard Wertheimer,0.64,0.07,Fashion & Retail,Chanel,United States,0,1
+45,German Larrea Mota Velasco & family,0.59,0.07,Metals & Mining,Mining,Mexico,0,1
+46,Gina Rinehart,0.59,0.07,Metals & Mining,Mining,Australia,0,0
+47,Shiv Nadar,0.72,0.06,Technology,Software Services,India,1,1
+48,Jim Simons,0.83,0.06,Finance & Investments,Hedge Funds,United States,1,1
+49,He Xiangjian,0.77,0.06,Manufacturing,Home Appliances,China,1,1
+50,Miriam Adelson,0.72,0.05,Gambling & Casinos,Casinos,United States,0,0
+51,Dietrich Mateschitz,0.73,0.05,Food & Beverage,Red Bull,Austria,1,1
+52,Leonardo Del Vecchio & family,0.88,0.05,Fashion & Retail,Eyeglasses,Italy,1,1
+53,Ken Griffin,0.36,0.05,Finance & Investments,Hedge Funds,United States,1,1
+54,Tadashi Yanai & family,0.67,0.05,Fashion & Retail,Fashion Retail,Japan,1,1
+55,William Lei Ding,0.31,0.04,Technology,Online Games,China,1,1
+56,Susanne Klatten,0.45,0.04,Automotive,Bmw Pharmaceuticals,Germany,0,0
+56,Cyrus Poonawalla,0.78,0.04,Healthcare,Vaccines,India,0,1
+56,Wang Wei,0.33,0.04,Service,Package Delivery,China,1,1
+59,Qin Yinglin,0.41,0.04,Food & Beverage,Pig Breeding,China,1,1
+60,Sam Bankman-Fried,0.00,0.04,Finance & Investments,Cryptocurrency Exchange,Bahamas,1,1
+61,Takemitsu Takizaki,0.72,0.03,Manufacturing,Sensors,Japan,1,1
+62,Li Shufu,0.44,0.03,Automotive,Automobiles,China,1,1
+63,Emmanuel Besnier,0.33,0.03,Food & Beverage,Cheese,France,0,1
+64,R. Budi Hartono,0.80,0.03,Finance & Investments,Banking Tobacco,Indonesia,0,1
+65,Leonard Lauder,0.92,0.03,Fashion & Retail,Estee Lauder,United States,0,1
+66,Guillaume Pousaz,0.16,0.03,Finance & Investments,Fintech,Switzerland,1,1
+67,Iris Fontbona & family,0.77,0.03,Metals & Mining,Mining,Chile,0,0
+67,Jack Ma,0.42,0.03,Technology,E-Commerce,China,1,1
+69,Michael Hartono,0.81,0.03,Manufacturing,Banking Tobacco,Indonesia,0,1
+70,Eric Schmidt,0.56,0.03,Technology,Google,United States,1,1
+71,Ray Dalio,0.66,0.03,Finance & Investments,Hedge Funds,United States,1,1
+71,Daniel Gilbert,0.47,0.03,Finance & Investments,Quicken Loans,United States,1,1
+73,Thomas Frist Jr. & family,0.83,0.02,Healthcare,Hospitals,United States,1,1
+74,Masayoshi Son,0.53,0.02,Telecom,Internet Telecom,Japan,1,1
+75,Abigail Johnson,0.47,0.02,Finance & Investments,Money Management,United States,0,0
+76,Rupert Murdoch & family,0.95,0.02,Media & Entertainment,Newspapers Tv Network,United States,0,1
+77,Stefan Quandt,0.39,0.02,Automotive,Bmw,Germany,0,1
+78,Jensen Huang,0.45,0.02,Technology,Semiconductors,United States,1,1
+79,Huang Shilin,0.39,0.02,Automotive,Batteries,China,1,1
+80,Thomas Peterffy,0.73,0.02,Finance & Investments,Discount Brokerage,United States,1,1
+81,Radhakishan Damani,0.58,0.02,Fashion & Retail,Retail Investments,India,1,1
+82,Pang Kang,0.56,0.01,Food & Beverage,Soy Sauce,China,1,1
+83,Wang Chuanfu,0.41,0.01,Automotive,Batteries Automobiles,China,1,1
+84,Reinhold Wuerth & family,0.88,0.01,Manufacturing,Fasteners,Germany,1,1
+85,Theo Albrecht Jr. & family,0.64,0.01,Fashion & Retail,"Aldi, Trader Joe'S",Germany,0,1
+85,Yang Huiyan & family,0.16,0.01,Real Estate,Real Estate,China,0,0
+87,Vladimir Lisin,0.55,0.01,Metals & Mining,Steel Transport,Russia,1,1
+88,Fan Hongwei & family,0.39,0.01,Energy,Petrochemicals,China,1,0
+89,Lakshmi Mittal,0.64,0.00,Metals & Mining,Steel,United Kingdom,0,1
+90,Andrew Forrest,0.47,0.00,Metals & Mining,Mining,Australia,1,1
+91,Jiang Rensheng & family,0.59,0.00,Healthcare,Vaccines,China,1,1
+91,Savitri Jindal & family,0.66,0.00,Metals & Mining,Steel,India,0,0
+91,Wang Wenyin,0.38,0.00,Metals & Mining,Mining Copper Products,China,1,1
+94,Li Xiting,0.64,0.00,Healthcare,Medical Devices,China,1,1
+94,Stefan Persson,0.69,0.00,Fashion & Retail,H&M,Sweden,0,1
+96,Steve Cohen,0.55,0.00,Finance & Investments,Hedge Funds,United States,1,1
+97,Vladimir Potanin,0.48,0.00,Metals & Mining,Metals,Russia,1,1
+98,Harold Hamm & family,0.72,0.00,Energy,Oil & Gas,United States,1,1
+99,Sun Piaoyang,0.52,0.00,Healthcare,Pharmaceuticals,China,1,1
+100,Luo Liguo & family,0.56,0.00,Manufacturing,Chemicals,China,1,1
