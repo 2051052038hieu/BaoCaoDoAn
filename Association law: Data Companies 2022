@@ -1,0 +1,20 @@
+from numpy.lib.shape_base import column_stack
+from mlxtend.frequent_patterns import apriori
+from mlxtend.frequent_patterns import association_rules
+import pandas as pd
+
+df = pd.read_excel('/content/drive/MyDrive/Data Mining/BTL/2022.xlsx')
+
+df = df.applymap(lambda x: True if x == 1 else False)
+
+df
+
+data_endcoded = df
+
+frequency_set=apriori(data_endcoded,min_support=0.15,use_colnames=True)
+
+rules = association_rules(frequency_set, min_threshold=0.7)
+
+print(rules)
+
+rules.to_csv("/content/drive/MyDrive/Data Mining/BTL/2022-res.csv")
