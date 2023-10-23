@@ -1,0 +1,28 @@
+from numpy.lib.shape_base import column_stack
+from mlxtend.frequent_patterns import apriori
+from mlxtend.frequent_patterns import association_rules
+import pandas as pd
+
+#Đọc CSDL từ file excel
+df = pd.read_excel('/content/drive/MyDrive/Data Mining/BTL/Bill.xlsx')
+
+# Đoạn mã này sử dụng phương thức applymap() để duyệt qua từng phần tử trong DataFrame df.
+# Mỗi phần tử x được kiểm tra xem có bằng 1 không. Nếu bằng 1, thì được chuyển thành True, ngược lại, chuyển thành False.
+# Mục đích có thể là chuyển đổi dữ liệu nhị phân (có giá trị 1 và 0) thành dạng Boolean (True và False).
+df = df.applymap(lambda x: True if x == 1 else False)
+
+# Dòng này đơn giản là để hiển thị DataFrame df sau khi dữ liệu đã được chuyển đổi ở bước trước.
+# Điều này có thể giúp bạn xác định liệu việc chuyển đổi đã được thực hiện đúng hay không.
+df
+data_endcoded = df
+
+# Thuật toán Apriori được sử dụng để tìm các tập hỗ trợ và luật kết hợp trong dữ liệu đã được chuyển đổi.
+# min_support=0.2 là ngưỡng hỗ trợ tối thiểu, tức là chúng ta chỉ quan tâm đến các tập mẫu thường xuyên xuất hiện ít nhất 20% trong dữ liệu.
+# use_colnames=True sử dụng tên cột thay vì chỉ số để biểu diễn các tập hỗ trợ và luật kết hợp.
+frequency_set=apriori(data_endcoded,min_support=0.2,use_colnames=True)
+
+# Dựa trên tập hỗ trợ và ngưỡng độ tin cậy tối thiểu là 80%, tạo ra các luật kết hợp từ dữ liệu đã được chuyển đổi.
+rules = association_rules(frequency_set, min_threshold=0.8)
+print(rules)
+# Đưa bảng có luật kết hợp vào trong file Billres.csv
+rules.to_csv("/content/drive/MyDrive/Data Mining/BTL/Billres.csv")
